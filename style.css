@@ -85,7 +85,7 @@ body{
 .plan{
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 1px;
 }
 
 .plan h4{
@@ -119,6 +119,8 @@ body{
     color: hsl(224, 23%, 55%);
     font-weight: 900;
     margin-bottom: 2rem;
+    margin-top: -0.3rem;
+    align-self: center;
 }
 
 a, button{
